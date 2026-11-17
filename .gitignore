@@ -1,0 +1,8 @@
+target/
+build/
+node_modules/
+**/contracts/lib/
+**/contracts/out/
+**/contracts/cache/
+11-solidity-verifier/contracts/src/Verifier.sol
+__pycache__/
