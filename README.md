@@ -2,9 +2,12 @@
 
 Companion code for the dev.to series. Every folder matches one post.
 
-| Folder | Post | Language | Status |
-|---|---|---|---|
-| `01-cave` | What a ZK proof actually proves | Python 3 | ✅ runs |
+[**Blog series**](https://dev.to/grandpaarush/series/46898)
+
+| Folder | Post | Language | Status | Blog |
+|---|---|---|---|---|
+| `01-cave` | What a ZK proof actually proves | Python 3 | ✅ runs | [Post 1](https://dev.to/grandpaarush/how-can-i-prove-i-know-a-secret-without-telling-you-the-secret-zero-knowledge-proofs-78o) |
+| `02-quiz` | Where ZK is used | Python 3 | ✅ runs | [Post 2](https://dev.to/grandpaarush/what-is-zero-knowledge-actually-used-for-10l6) |
 
 ## Tooling
 
