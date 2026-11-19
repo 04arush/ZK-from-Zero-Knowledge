@@ -8,6 +8,7 @@ Companion code for the dev.to series. Every folder matches one post.
 |---|---|---|---|---|
 | `01-cave` | What a ZK proof actually proves | Python 3 | ✅ runs | [Post 1](https://dev.to/grandpaarush/how-can-i-prove-i-know-a-secret-without-telling-you-the-secret-zero-knowledge-proofs-78o) |
 | `02-quiz` | Where ZK is used | Python 3 | ✅ runs | [Post 2](https://dev.to/grandpaarush/what-is-zero-knowledge-actually-used-for-10l6) |
+| `03-merkle-tree` | Hashes, commitments and Merkle trees | Python 3 (stdlib) | ✅ runs | [Post 3](https://dev.to/grandpaarush/how-do-you-prove-something-is-in-a-list-without-sharing-the-whole-list-529d) |
 
 ## Tooling
 
