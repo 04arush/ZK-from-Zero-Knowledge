@@ -1,0 +1,7 @@
+[package]
+name = "hello"
+type = "bin"
+authors = [""]
+
+[dependencies]
+
